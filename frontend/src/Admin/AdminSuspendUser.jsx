@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import AdminTopBar from './AdminTopBar';
-import AdminSidebar from './AdminSidebar';
+import AdminSidebar from './AdminSideBar';
 import "./AdminSuspendUser.css";
 
 export default function AdminSuspendUser() {
