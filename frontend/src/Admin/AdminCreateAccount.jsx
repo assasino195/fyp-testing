@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import AdminTopBar from './AdminTopBar';   // <- update path as needed
-import AdminSidebar from './AdminSidebar';
+import AdminSidebar from './AdminSideBar';
 import './AdminCreateAccount.css';
 
 export default function AdminCreateAccount() {
