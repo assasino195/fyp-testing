@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import AdminTopBar from './AdminTopBar';
-import AdminSidebar from './AdminSidebar';
+import AdminSidebar from './AdminSideBar';
 import "./AdminViewProfiles.css";
 
 const roles = [
