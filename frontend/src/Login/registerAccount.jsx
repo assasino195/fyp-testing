@@ -129,7 +129,7 @@ export default function RegisterAccount() {
         setResponseBox({ show: true, message: `Registration failed: ${registeredAccountData.detail || 'Something went wrong.'}` });
       }
     } catch (error) {
-      console.error('Error during registration:', error);
+      console.error('Error during registration:', error.message, error);
       setResponseBox({ show: true, message: 'An error occurred during registration. Please try again.' });
     }
   };
