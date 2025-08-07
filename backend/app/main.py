@@ -13,6 +13,7 @@ app = FastAPI(title="Your API", version="1.0.0")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["http://localhost:5173"],  # React default port
+    "https://fyp-testing-1-frontend.onrender.com" #production
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
