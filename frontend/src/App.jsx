@@ -12,7 +12,7 @@ import Login from './Login/login'
 import RegisterAccount from './Login/registerAccount';
 import ForgotPassword from './Login/forgotPassword';
 
-import UserUpload from './Userupload.css';
+import UserUpload from './userUpload.css';
 import UserDashboard from './User/UserDashboard';
 import UpdateUserAccount from './User/UpdateUserAccount';
 import UserResult from './User/UserResult';
