@@ -1,7 +1,7 @@
 import React from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import AdminTopBar from "./AdminTopBar";
-import AdminSidebar from "./AdminSidebar";
+import AdminSidebar from "./AdminSideBar";
 import "./AdminAccountDetails.css";
 
 const allUsers = [
