@@ -37,7 +37,7 @@ import AdminViewAccounts from './Admin/AdminViewAccounts';
 import AdminAccountDetails from './Admin/AdminAccountDetails';
 import AdminSuspendUser from './Admin/AdminSuspendUser';
 import AdminUpdateAccountDetails from './Admin/AdminUpdateAccountDetails';
-import AdminCreateProfile from './Admin/AdminCreateprofile';
+import AdminCreateProfile from './Admin/AdminCreateProfile';
 import AdminViewProfiles from './Admin/AdminViewProfiles';
 import AdminProfileDetails from "./Admin/AdminProfileDetails";
 import AdminUpdateProfileDetails from './Admin/AdminUpdateProfileDetails';
