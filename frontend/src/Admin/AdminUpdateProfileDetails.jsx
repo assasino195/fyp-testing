@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import AdminTopBar from "./AdminTopBar";
-import AdminSidebar from "./AdminSidebar";
+import AdminSidebar from "./AdminSideBar";
 import "./AdminUpdateProfileDetails.css";
 
 const allRoles = [
