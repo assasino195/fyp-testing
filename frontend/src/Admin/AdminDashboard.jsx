@@ -1,7 +1,7 @@
 // src/pages/AdminDashboard.jsx  (adjust the path to where you keep pages)
 import React from 'react';
 import AdminTopBar   from './AdminTopBar';   // <- update path as needed
-import AdminSidebar from './AdminSidebar';
+import AdminSidebar from './AdminSideBar';
 import './AdminDashboard.css';                          // (optional) page-specific styles
 
 export default function AdminDashboard() {
