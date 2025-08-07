@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { useNavigate, useLocation } from 'react-router-dom';
 
 import AdminTopBar from "./AdminTopBar";
-import AdminSidebar from "./AdminSidebar";
+import AdminSidebar from "./AdminSideBar";
 import "./AdminCreateProfile.css";
 
 const permissionsList = [
