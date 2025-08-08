@@ -8,7 +8,7 @@ from . import models
 models.Base.metadata.create_all(bind=engine)
 
 app = FastAPI(title="Your API", version="1.0.0")
-
+#hi
 # CORS middleware for frontend communication
 app.add_middleware(
     CORSMiddleware,
